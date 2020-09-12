@@ -1,0 +1,6 @@
+text/html; elinks -dump %s ; copiousoutput
+application/octet-stream; open %s
+application/pdf; open %s
+
+image/png; open %s
+image/*; open %s
