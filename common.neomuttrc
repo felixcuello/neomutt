@@ -1,3 +1,5 @@
+set pager_index_lines = 5
+
 set reverse_name
 
 unset record                # Gmail auto-stores in "+[Gmail].Sent Mail"
