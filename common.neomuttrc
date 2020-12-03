@@ -78,7 +78,7 @@ color index brightyellow default "~N" # new messages
 
 # Basics
 color normal        default             default
-color indicator     brightwhite         green
+color indicator     brightwhite         red
 color tree          default             default
 color status        brightgreen         blue
 color error         brightred           default
