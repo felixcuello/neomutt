@@ -33,7 +33,7 @@ set mailcap_path = ~/.neomutt/mailcap
 # set quit = ask-yes
 # set sort = threads
 # set sort=reverse-date-sent  # << Newest on top
-set sort = threads 
+set sort = threads
 set sort_aux = reverse-last-date-received
 
 set delete
